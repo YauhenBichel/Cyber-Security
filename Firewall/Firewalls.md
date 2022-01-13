@@ -14,9 +14,8 @@ Prevent denial of service attacks:
 • SYN flooding: attacker establishes many bogus TCP
 connections, no resources left for “real” connections
 Prevent illegal modification/access of internal data.
-• e.g., attacker replaces homepage with something else
-allow only authorized access to inside network (set of
-authenticated users/hosts)
+• e.g., attacker replaces homepage with something else allow only authorized access to inside network (set of authenticated users/hosts)
+
 Three main types of firewalls:
 • stateless packet filters
 • stateful packet filters (deep packet inspection)
