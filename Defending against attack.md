@@ -21,12 +21,11 @@ Access and availability: services must be accessible and available to users
 
 ## First line of defence – IDs and Passwords
  Weakest link
- front line defence against intruders
-ID provides security in the following ways:-
+ front line defence against intruders ID provides security in the following ways:-
  determines if a user is authorised
  determines the user’s privileges
- discretionary access control e.g. a user may grant
-permission to read their files
+ discretionary access control e.g. a user may grant permission to read their files
+
 Two main threats
  Attacker gains access – brute force attack
  Worse - grab the password file
